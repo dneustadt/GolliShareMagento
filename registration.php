@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Dne_GolliShare',
+    'Dneustadt_GolliShare',
     __DIR__
 );

@@ -1,4 +1,4 @@
-# Dne_GolliShare
+# Magento Gol.li Widget
 
 This extension for Magento 2 integrates the the social network widget of the [gol.li](https://gol.li) service.
 

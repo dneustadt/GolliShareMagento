@@ -1,6 +1,6 @@
 <?php
 
-namespace Dne\GolliShare\Block\Widget;
+namespace Dneustadt\GolliShare\Block\Widget;
 
 use Magento\Framework\View\Element\Template;
 use Magento\Widget\Block\BlockInterface;

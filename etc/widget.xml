@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
-    <widget class="Dne\GolliShare\Block\Widget\GolliWidget" id="dne_gollishare_golliwidget">
+    <widget class="Dneustadt\GolliShare\Block\Widget\GolliWidget" id="dneustadt_gollishare_golliwidget">
         <label>Gol.li Social Media Widget</label>
         <description>Widget of social network hub service gol.li</description>
         <parameters>
@@ -25,6 +25,5 @@
                 <description>(Optional) Border color of the widget as hex value starting with #</description>
             </parameter>
         </parameters>
-
     </widget>
 </widgets>
