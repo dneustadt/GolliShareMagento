@@ -1,5 +1,4 @@
 <?php if($block->getData('golliusername')): ?>
-    <h2 class='toptal-title'><?php echo $block->getData('widgettitle'); ?></h2>
     <iframe src="https://gol.li/<?php echo $block->getData('golliusername'); ?>/share?<?php if($block->getData('golliwidgetbg')): ?>bg=<?php echo substr($block->getData('golliwidgetbg'), 1); ?>&<?php endif; ?><?php if($block->getData('golliwidgetborder')): ?>b=<?php echo substr($block->getData('golliwidgetborder'), 1); ?><?php endif; ?>"
             style="width: 100%;
                    max-width: <?php echo $block->getData('golliwidgetwidth'); ?>px;
