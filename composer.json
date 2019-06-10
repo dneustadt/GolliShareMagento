@@ -1,15 +1,15 @@
 {
-  "name": "dneustadt/golli_share",
+  "name": "dne/golli_share",
   "description": "A Magento 2 module to integrate the widget of social network hub service gol.li",
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": [
     "MIT"
   ],
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "Dneustadt\\GolliShare\\": ""
+      "Dne\\GolliShare\\": ""
     }
   }
 }
